@@ -1,6 +1,6 @@
 {
-  "name": "make_it_rain",
-  "main": "./lib/snow",
+  "name": "Make it Rain",
+  "main": "./lib/make_it_rain",
   "version": "0.1.0",
   "description": "Make it rain!",
   "repository": "https://github.com/leonelgalan/atom-make_it_rain",
