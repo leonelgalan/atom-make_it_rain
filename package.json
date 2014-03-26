@@ -1,9 +1,9 @@
 {
-  "name": "snow",
+  "name": "make_it_rain",
   "main": "./lib/snow",
   "version": "0.1.0",
-  "description": "Snow!",
-  "repository": "https://github.com/rgbkrk/atom-snow",
+  "description": "Make it rain!",
+  "repository": "https://github.com/leonelgalan/atom-make_it_rain",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
